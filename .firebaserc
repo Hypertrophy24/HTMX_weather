@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "htmx-lab",
+    "trueapp": "htmx-weather"
+  },
+  "targets": {},
+  "etags": {}
+}
